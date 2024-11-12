@@ -1,5 +1,5 @@
 
-# 👋 Hi there! I’m Estela Castillo Ferreiro
+# 👋 Hi there! I’m Estela
 
 Welcome to my GitHub! I'm a passionate **Solution Architect** at Oracle with a strong focus on **data analysis** and **machine learning** on **Oracle Cloud Infrastructure (OCI)**. 
 ## 👀 About Me
